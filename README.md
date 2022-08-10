@@ -1,2 +1,2 @@
 # PassManager
-a java program that manage your passwords
+a java program to manage your passwords.
